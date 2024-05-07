@@ -119,7 +119,67 @@
       "city": "Amsterdam",
       "image": "https://example.com/amsterdam_image.jpg",
       "info": "Amsterdam is the capital city of the Netherlands and is known for its picturesque canals, historic architecture, and vibrant cultural scene. Landmarks include the Anne Frank House and Van Gogh Museum."
-    }
+    },
+    {
+        "id": 21,
+        "city": "Vienna",
+        "image": "https://example.com/vienna_image.jpg",
+        "info": "Vienna is the capital city of Austria and is known for its cultural heritage, classical music, and elegant architecture. Landmarks include the Hofburg Palace, Schönbrunn Palace, and St. Stephen's Cathedral."
+      },
+      {
+        "id": 22,
+        "city": "Venice",
+        "image": "https://example.com/venice_image.jpg",
+        "info": "Venice is a city in northeastern Italy and is renowned for its canals, art, and architecture. Landmarks include St. Mark's Square, the Doge's Palace, and the Rialto Bridge."
+      },
+      {
+        "id": 23,
+        "city": "Florence",
+        "image": "https://example.com/florence_image.jpg",
+        "info": "Florence is the capital city of the Tuscany region in Italy and is known for its Renaissance art and architecture. Landmarks include the Florence Cathedral, Uffizi Gallery, and Ponte Vecchio."
+      },
+      {
+        "id": 24,
+        "city": "Prague",
+        "image": "https://example.com/prague_image.jpg",
+        "info": "Prague is the capital city of the Czech Republic and is known for its historic Old Town, Prague Castle, and charming cobblestone streets. It is often called the 'City of a Hundred Spires'."
+      },
+      {
+        "id": 25,
+        "city": "Kyoto",
+        "image": "https://example.com/kyoto_image.jpg",
+        "info": "Kyoto is a city located in the central part of the island of Honshu in Japan. It is known for its classical Buddhist temples, as well as gardens, imperial palaces, Shinto shrines, and traditional wooden houses."
+      },
+      {
+        "id": 26,
+        "city": "Lisbon",
+        "image": "https://example.com/lisbon_image.jpg",
+        "info": "Lisbon is the capital city of Portugal and is known for its historic architecture, colorful buildings, and vibrant culture. Landmarks include Belém Tower, Jerónimos Monastery, and São Jorge Castle."
+      },
+      {
+        "id": 27,
+        "city": "Budapest",
+        "image": "https://example.com/budapest_image.jpg",
+        "info": "Budapest is the capital city of Hungary and is known for its stunning architecture, thermal baths, and vibrant nightlife. Landmarks include Buda Castle, Fisherman's Bastion, and the Hungarian Parliament Building."
+      },
+      {
+        "id": 28,
+        "city": "Cairo",
+        "image": "https://example.com/cairo_image.jpg",
+        "info": "Cairo is the capital city of Egypt and is known for its ancient pyramids, mosques, and bustling markets. Landmarks include the Great Pyramid of Giza, Sphinx, and Egyptian Museum."
+      },
+      {
+        "id": 29,
+        "city": "Rio de Janeiro",
+        "image": "https://example.com/rio_de_janeiro_image.jpg",
+        "info": "Rio de Janeiro is a city in Brazil and is known for its stunning beaches, vibrant culture, and annual Carnival celebration. Landmarks include Christ the Redeemer statue, Sugarloaf Mountain, and Copacabana Beach."
+      },
+      {
+        "id": 30,
+        "city": "Vienna",
+        "image": "https://example.com/vienna_image.jpg",
+        "info": "Vienna is the capital city of Austria and is known for its cultural heritage, classical music, and elegant architecture. Landmarks include the Hofburg Palace, Schönbrunn Palace, and St. Stephen's Cathedral."
+      }
   ]
 }
   
