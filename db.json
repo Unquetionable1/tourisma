@@ -1,0 +1,125 @@
+{
+    "cityData":[
+    {
+      "id": 1,
+      "city": "New York City",
+      "image": "https://example.com/new_york_image.jpg",
+      "info": "New York City is the most populous city in the United States. It is known for its iconic landmarks such as the Statue of Liberty, Times Square, and Central Park."
+    },
+    {
+      "id": 2,
+      "city": "Paris",
+      "image": "https://example.com/paris_image.jpg",
+      "info": "Paris is the capital city of France and is famous for its art, fashion, and culture. Landmarks include the Eiffel Tower, Louvre Museum, and Notre-Dame Cathedral."
+    },
+    {
+      "id": 3,
+      "city": "Tokyo",
+      "image": "https://example.com/tokyo_image.jpg",
+      "info": "Tokyo is the capital city of Japan and is known for its vibrant street life, historic temples, and ultramodern architecture. It is one of the largest cities in the world."
+    },
+    {
+      "id": 4,
+      "city": "London",
+      "image": "https://example.com/london_image.jpg",
+      "info": "London is the capital city of England and the United Kingdom. It is known for its rich history, diverse culture, and iconic landmarks such as Big Ben and Buckingham Palace."
+    },
+    {
+      "id": 5,
+      "city": "Los Angeles",
+      "image": "https://example.com/los_angeles_image.jpg",
+      "info": "Los Angeles, often known by its initials L.A., is the largest city in California. It is famous for its entertainment industry, beautiful beaches, and diverse population."
+    },
+    {
+      "id": 6,
+      "city": "Rome",
+      "image": "https://example.com/rome_image.jpg",
+      "info": "Rome is the capital city of Italy and is known for its rich history, art, and culture. Landmarks include the Colosseum, Vatican City, and the Pantheon."
+    },
+    {
+      "id": 7,
+      "city": "Sydney",
+      "image": "https://example.com/sydney_image.jpg",
+      "info": "Sydney is the capital city of New South Wales and one of Australia's largest cities. It is famous for its iconic Sydney Opera House, Harbour Bridge, and beautiful beaches."
+    },
+    {
+      "id": 8,
+      "city": "Dubai",
+      "image": "https://example.com/dubai_image.jpg",
+      "info": "Dubai is the largest and most populous city in the United Arab Emirates. It is known for its modern architecture, luxury shopping, and vibrant nightlife."
+    },
+    {
+      "id": 9,
+      "city": "Hong Kong",
+      "image": "https://example.com/hong_kong_image.jpg",
+      "info": "Hong Kong is a vibrant city known for its skyscrapers, bustling street markets, and deep natural harbor. It is a major financial hub and a melting pot of cultures."
+    },
+    {
+      "id": 10,
+      "city": "Berlin",
+      "image": "https://example.com/berlin_image.jpg",
+      "info": "Berlin is the capital city of Germany and is known for its art scene, historic sites, and vibrant nightlife. Landmarks include the Berlin Wall, Brandenburg Gate, and Museum Island."
+    },
+    {
+      "id": 11,
+      "city": "Moscow",
+      "image": "https://example.com/moscow_image.jpg",
+      "info": "Moscow is the capital city of Russia and is known for its rich history, iconic architecture, and cultural heritage. Landmarks include the Kremlin, Red Square, and St. Basil's Cathedral."
+    },
+    {
+      "id": 12,
+      "city": "Singapore",
+      "image": "https://example.com/singapore_image.jpg",
+      "info": "Singapore is a city-state and island country in Southeast Asia. It is known for its modern skyline, diverse food scene, and efficient public transportation."
+    },
+    {
+      "id": 13,
+      "city": "Istanbul",
+      "image": "https://example.com/istanbul_image.jpg",
+      "info": "Istanbul is a transcontinental city straddling Europe and Asia across the Bosphorus Strait. It is known for its rich history, stunning architecture, and bustling markets."
+    },
+    {
+      "id": 14,
+      "city": "Toronto",
+      "image": "https://example.com/toronto_image.jpg",
+      "info": "Toronto is the capital city of the Canadian province of Ontario. It is known for its diverse population, vibrant arts scene, and iconic CN Tower."
+    },
+    {
+      "id": 15,
+      "city": "Seoul",
+      "image": "https://example.com/seoul_image.jpg",
+      "info": "Seoul is the capital city of South Korea and is known for its modern skyscrapers, high-tech subways, and pop culture. Landmarks include Gyeongbokgung Palace and the N Seoul Tower."
+    },
+    {
+      "id": 16,
+      "city": "Barcelona",
+      "image": "https://example.com/barcelona_image.jpg",
+      "info": "Barcelona is the capital city of Catalonia in Spain and is known for its art and architecture. Landmarks include the Sagrada Familia, Park Güell, and Gothic Quarter."
+    },
+    {
+      "id": 17,
+      "city": "Mumbai",
+      "image": "https://example.com/mumbai_image.jpg",
+      "info": "Mumbai, formerly known as Bombay, is the capital city of the Indian state of Maharashtra. It is known as the financial, commercial, and entertainment capital of India."
+    },
+    {
+      "id": 18,
+      "city": "Bangkok",
+      "image": "https://example.com/bangkok_image.jpg",
+      "info": "Bangkok is the capital city of Thailand and is known for its vibrant street life, ornate temples, and bustling markets. It is one of the most visited cities in the world."
+    },
+    {
+      "id": 19,
+      "city": "San Francisco",
+      "image": "https://example.com/san_francisco_image.jpg",
+      "info": "San Francisco is a city in Northern California known for its iconic Golden Gate Bridge, cable cars, and steep hills. It is also famous for its tech industry and liberal culture."
+    },
+    {
+      "id": 20,
+      "city": "Amsterdam",
+      "image": "https://example.com/amsterdam_image.jpg",
+      "info": "Amsterdam is the capital city of the Netherlands and is known for its picturesque canals, historic architecture, and vibrant cultural scene. Landmarks include the Anne Frank House and Van Gogh Museum."
+    }
+  ]
+}
+  
