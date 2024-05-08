@@ -4,7 +4,7 @@ export default function Visit_Form() {
   return (
     <>
       <header>
-        <h1>Where Are yu visiting</h1>
+        <h1>WHERE ARE YOU VISITING</h1>
       </header>
 
       <form>
