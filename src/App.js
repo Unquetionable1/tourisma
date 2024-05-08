@@ -1,12 +1,9 @@
-import logo from './logo.svg';
 import './App.css';
-import Visit_Form from './Visit_Form';
+import CityList from './CityList'
 
 function App() {
   return (
-    <div className="App">
-      <Visit_Form/>
-    </div>
+    <CityList />
   );
 }
 
