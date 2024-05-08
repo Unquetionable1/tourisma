@@ -45,7 +45,6 @@ export default function Visit_Form() {
           </label>
         </div>
         <br />
-        <label></label>
 
         <div className="contact">
           <label>
