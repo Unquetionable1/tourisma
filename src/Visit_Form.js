@@ -8,7 +8,7 @@ export default function Visit_Form() {
       <header>
         <h1>WHERE ARE YOU VISITING</h1>
       </header>
-
+      <h1>Hi</h1>
       <form>
         <div>
           <div className="details">
